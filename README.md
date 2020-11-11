@@ -1,0 +1,4 @@
+[![We recommend IntelliJ IDEA](https://www.elegantobjects.org/intellij-idea.svg)](https://www.jetbrains.com/idea/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Data analysis
+[Software systems](#https://www.kaggle.com/qadeemkhan/dataset-of-software-architectural-styles) are composed of one or more software architectural styles. These styles define the usage patterns of a programmer in order to develop a complex project. These architectural styles are required to analyze for pattern similarity in the structure of multiple groups of projects. The researcher can apply different types of data mining algorithms to analyze the software projects through architectural styles used. The dataset is obtained from an online questionnaire delivered to the world 's best academic and software industry.
